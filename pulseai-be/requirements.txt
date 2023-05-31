@@ -1,0 +1,12 @@
+boto3==1.18.65
+Flask==2.0.2
+Flask-Cors==3.0.10
+numpy==1.22.2
+pandas==1.4.1
+python-dotenv==0.20.0
+requests==2.26.0
+yfinance==0.2.18
+openai==0.27.4
+joblib==1.1.0
+redis==3.5.3
+gunicorn==20.1.0
